@@ -1,1 +1,1 @@
-web: npm i typescript && npm run dev
+web: npm run dev
